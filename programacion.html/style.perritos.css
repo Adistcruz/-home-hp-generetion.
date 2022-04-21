@@ -1,0 +1,46 @@
+body{
+    background-color: #000000;
+}
+.titulo{
+    text-align: center;
+    background-color: aliceblue;
+}
+.cajaFlotante{
+    margin: 60px;
+    border-style: solid;
+    border-color: black;
+    background-color: hwb(168 35% 45%);
+    border-radius: 5px;
+    text-align: center;
+}
+.cabecera{
+    padding: 10px;
+    border-bottom: solid 1px black;
+    
+}
+.contenido{
+    padding: 10px;
+    border-bottom: solid 1px black;
+}
+.botones{
+    padding: 60px;
+    border-bottom: solid 1px black;
+}
+#facebook{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#instagram{
+    background-color: rgb(211, 85, 169);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#twitter{
+    background-color: rgb(27, 111, 207);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;  
+}

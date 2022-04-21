@@ -1,0 +1,95 @@
+/* Este es un comentario
+
+Para modificar ID usamos #
+
+Para modificar clases usas
+
+
+*/
+body {
+    background-color: rgb(199, 236, 236);
+}
+.salon{
+    color:blueviolet;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#adriana
+{ color: blue;
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#rodrigo
+{ color: rgb(255, 0, 140);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+#edgar
+{ color: rgb(152, 180, 26);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+#sandra
+{ color: coral;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular',
+ 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.paquete {
+    padding: 20px;
+    border: 5px solid brown;
+    margin: 15px;
+
+}
+
+.paquete1{
+    padding: 20px;
+    border: 5px solid rgb(146, 23, 184);
+    margin: 150px;
+background-color: blue;
+text-align: center; /*lefth, center,etc*/ 
+border-radius: 50px;
+width: 250px;
+height: 300px;
+}
+
+#facebook{
+color: blue;
+color: white;
+margin: 20px;
+padding: 20px;
+font-size: 20px;
+border-radius: 10px;
+}
+
+
+#instagram
+{
+    color: rgb(231, 13, 213);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    }
+
+
+#twitter{
+color: rgb(23, 106, 184);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    }
+
+
+
+
+
+
+
+
+
